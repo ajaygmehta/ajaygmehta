@@ -1,4 +1,7 @@
-## Hi there 👋 I'm Ajay Mehta, a passionate Finance and Project Management professional based in Melbourne, Australia. I’m passionate about delivering technology-driven projects that create meaningful impact and drive innovation.
+## Hi there 👋 I'm Ajay Mehta, I’m passionate about delivering technology-driven projects that create meaningful impact and drive innovation.
+
+**About me**
+Strategic, results-driven Senior Project, Program and Portfolio Management professional with extensive experience leading and supporting large-scale digital and IT transformation initiatives across higher education, energy, defence and financial services. Proven experience in leading small teams, scaling PMO functions, embedding robust governance and reporting frameworks, and driving operational excellence through data-driven insights. Adept at influencing executive stakeholders, aligning cross-functional teams, optimising resource planning, and delivering programs and projects within tight deadlines, scope and budget. Holds dual post-graduate degree in Accounting and Commerce (CA/CPA accredited), is SAFe Agile certified and active Technology Business Management (TBM) Council member committed to continuous improvement and impact-led transformation that accelerates strategic outcomes and enhances stakeholder value. Australian Citizen with active NV1 Security Clearance, fully compliant to support sensitive work environment
 
 **Core Skills**
 - 📊 Financial Governance & Reporting (CAPEX/OPEX, TBM, FinOps)
