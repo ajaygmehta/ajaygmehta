@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ajay Mehta, I’m passionate about delivering technology-driven projects that create meaningful impact and drive innovation. 
-💼 Senior IT Program & Portfolio Leader | 🔐 NV1 Cleared | 📊 Financial Governance | 🛠 Delivery Excellence  
+💼 Senior IT Program & Portfolio Leader | 📊 Financial Governance | 🛠 Delivery Excellence  
 🎓 Dual Master’s | 🧠 Strategic Thinker | 🌱 Lifelong Learner
 
 
